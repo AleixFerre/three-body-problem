@@ -1,0 +1,8 @@
+node_modules/
+.vscode/
+sketch/
+package*.json
+bun.lockb
+README.md
+tsconfig.json
+global.d.ts
